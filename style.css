@@ -1,0 +1,51 @@
+*:before, *:after {
+    box-sizing: border-box;
+  }
+.flexer
+{
+    display: grid;
+    grid-template-columns: repeat(5, 20%);
+    grid-template-rows: repeat(5, 20em);
+    /* background-color: cadetblue; */
+    /* border-style: solid; */
+
+    
+}
+body > .flexer > div {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+
+#h1guy
+{
+    
+   
+    
+    grid-row-start: 2;
+    grid-column-start: 2;
+
+    grid-row-end: 3;
+    grid-column-end: 3;
+    
+
+    
+    border: 1px solid black
+}
+
+#h1guy2
+{
+
+   
+   
+
+    grid-row-start: 5;
+    grid-column-start: 4;
+
+    grid-row-end: 6;
+    grid-column-end: 5;
+    
+            
+    border: 1px solid  black
+}
