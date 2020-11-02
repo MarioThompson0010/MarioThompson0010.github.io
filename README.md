@@ -22,9 +22,6 @@ All three html pages were run through an HTML validator, found by using Google-F
 ## BankingAPIClass--Banking API
 This is a Java, back-end web API I wrote during review and training given to me for free by Revature.  The course began on the 20th of September, 2020, and lasted four weeks.  During this time, I reviewed object-oriented programming, learned some SQL, and learned how to create servlets.  At the end of the course, I was called by Revature to see if I had changed my mind regarding relocating.  I am tied to the Kansas City area, so I could not accept their offer.  Also, at the end of this course I was able and qualified to pass the Java Foundations Certification.
 
-## homework
-This contains all the homework I have done in the KU class, the full stack flex boot camp class. I'll list the deployed highlights here:
-
 ### Weather Tracker
 [Link to weather](https://mariothompson0010.github.io/git2/homework/06_Weather/)
 List of technologies used: CSS, HTML, Javascript, JQuery, and three web APIs from openweathermap.org
@@ -44,10 +41,4 @@ Screenshot:
 Backup recording (since an API endpoint is down): 
 [Backup Recording](https://drive.google.com/file/d/1sZQh8cVb6db0vpdou2ocEAte4oA-N5sE/view)
 Contact information for my collaborator: David Gibbens. [Link to David Gibbens](https://github.com/dgibbs8089)
-
-## MiscellaneousForNow
-This is stuff I may need to refer to in the future, so I have no yet thrown it away.
-
-## GroupProject
-This is the group project--group project number 1--done during the KU Full Stack Flex boot camp.  It's a video game suggester.  It takes 3 parameters and returns video game names that you can use to buy video games.  It consumes two different APIs.
 
