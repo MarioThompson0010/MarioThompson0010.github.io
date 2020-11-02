@@ -1,3 +1,16 @@
 .margin-between-anchors{
     margin-bottom: 5px;
 }
+
+.grow-button:hover{
+    cursor: pointer;
+    width: 500px;
+    height: 400px;
+    z-index: 555555 !important;
+    position: relative;
+}
+
+/* .grow-button:hover::after
+{
+    z-index: 555555 !important;
+} */
