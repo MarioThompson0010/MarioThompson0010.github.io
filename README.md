@@ -33,6 +33,8 @@ All three html pages were run through an HTML validator, found by using Google-F
 ## BankingAPIClass--Banking API
 This is a Java, back-end web API I wrote during review and training given to me for free by Revature.  The course began on the 20th of September, 2020, and lasted four weeks.  During this time, I reviewed object-oriented programming, learned some SQL, and learned how to create servlets.  At the end of the course, I was called by Revature to see if I had changed my mind regarding relocating.  I am tied to the Kansas City area, so I could not accept their offer.  Also, at the end of this course I was able and qualified to pass the Java Foundations Certification.
 
+[Link to Java code](https://github.com/MarioThompson0010/Java_Web_API)
+
 ### Weather Tracker
 [Link to weather](https://mariothompson0010.github.io/git2/homework/06_Weather/)
 List of technologies used: CSS, HTML, Javascript, JQuery, and three web APIs from openweathermap.org
@@ -41,7 +43,8 @@ Screenshot:
 ![Weather Viewer](https://github.com/MarioThompson0010/06_Weather_Teller/blob/main/Assets/ScreenshotWeather.PNG)
 ![Weather Viewer 2](https://github.com/MarioThompson0010/06_Weather_Teller/blob/main/Assets/ScreenshotWeather2.PNG)
 
-### Group Project 1--Video Game Suggester--Note: On 2 November, 2020, the Chicken Coop API was generating a CORS error
+### Group Project 1--Video Game Suggester--Note: On 2 November, 2020, the Chicken Coop API was generating a CORS error. See the video demo below.
+
 [Link to Video Games](https://mariothompson0010.github.io/Project_1_develop/)
 List of technologies used: CSS, HTML, Javascript, JQuery, and two web APIs: RAWG and Chicken Coop
 Brief Description: This suggests video games, given your preferences.  Enter keywords you think could be in the title, the platform, and or the genre.  The web app returns the results in the form of cards, complete with images and possibly video clips.
