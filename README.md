@@ -7,6 +7,7 @@
 ## Email: MarioThompson0010@gmail.com
 ## Phone: 801-822-4485
 
+Screenshots:
 
 ![Screenshot of portfolio](https://github.com/MarioThompson0010/MarioThompson0010.github.io/blob/master/Assets/PortfolioSplashPage.PNG)
 ![Screenshot of portfolio](https://github.com/MarioThompson0010/MarioThompson0010.github.io/blob/master/Assets/ScreenshotPortfolio.PNG)
