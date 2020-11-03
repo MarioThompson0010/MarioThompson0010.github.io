@@ -19,6 +19,10 @@ The Contact page consists of one main row, with three nested rows.  The nested r
 
 All three html pages were run through an HTML validator, found by using Google-Fu.
 
+[Link to Splashpage](https://mariothompson0010.github.io/)
+
+[Direct Link to Portfolio](https://mariothompson0010.github.io/portfolio.html)
+
 ## BankingAPIClass--Banking API
 This is a Java, back-end web API I wrote during review and training given to me for free by Revature.  The course began on the 20th of September, 2020, and lasted four weeks.  During this time, I reviewed object-oriented programming, learned some SQL, and learned how to create servlets.  At the end of the course, I was called by Revature to see if I had changed my mind regarding relocating.  I am tied to the Kansas City area, so I could not accept their offer.  Also, at the end of this course I was able and qualified to pass the Java Foundations Certification.
 
