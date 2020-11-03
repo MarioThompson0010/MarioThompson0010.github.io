@@ -7,6 +7,8 @@
 ## Email: MarioThompson0010@gmail.com
 ## Phone: 801-822-4485
 
+![Screenshot of portfolio](https://github.com/MarioThompson0010/MarioThompson0010.github.io/blob/master/Assets/ScreenshotPortfolio.PNG)
+
 This is a responsive website that utilizes Bootstrap.  There are three webpages: an About page (the home page), a Contacts page, and a Portfolio page. The About page, or homepage, is about me, in a nutshell.  The Contacts page contains form input boxes that take information from the user.  There's a button (or an anchor made to look like a button) that lets the user submit the info.
 
 Boostrap does support a sticky Navbar, so I utlized that because I like a sticky navbar.  
