@@ -35,18 +35,20 @@ This is a Java, back-end web API I wrote during review and training given to me 
 List of technologies used: CSS, HTML, Javascript, JQuery, and three web APIs from openweathermap.org
 Brief Description: This tracks current weather for any given city, and displays a 5-day forecast.  Enter your city in the textbox, then click the button to see current weather.
 Screenshot:
-![Weather Viewer](https://github.com/MarioThompson0010/git2/blob/master/homework/06_Weather/Assets/ScreenshotWeather.PNG)
-![Weather Viewer 2](https://github.com/MarioThompson0010/git2/blob/master/homework/06_Weather/Assets/ScreenshotWeather2.PNG)
+![Weather Viewer](https://github.com/MarioThompson0010/06_Weather_Teller/blob/main/Assets/ScreenshotWeather.PNG)
+![Weather Viewer 2](https://github.com/MarioThompson0010/06_Weather_Teller/blob/main/Assets/ScreenshotWeather2.PNG)
 
 ### Group Project 1--Video Game Suggester--Note: On 2 November, 2020, the Chicken Coop API was generating a CORS error
 [Link to Video Games](https://mariothompson0010.github.io/Project_1_develop/)
 List of technologies used: CSS, HTML, Javascript, JQuery, and two web APIs: RAWG and Chicken Coop
 Brief Description: This suggests video games, given your preferences.  Enter keywords you think could be in the title, the platform, and or the genre.  The web app returns the results in the form of cards, complete with images and possibly video clips.
 
-Screenshot:
-![Video Game Selector](https://github.com/dgibbs8089/Project_1_develop/blob/Develop_Branch/assets/images/Screenshot.PNG)
+Screenshots:
+![Video Game Screenshot](https://github.com/MarioThompson0010/Project_1_develop/blob/main/assets/images/Screenshot.PNG)
+![Video Game Screenshot 2](https://github.com/MarioThompson0010/Project_1_develop/blob/main/assets/images/Screenshot2.PNG)
 
 Backup recording (since an API endpoint is down): 
 [Backup Recording](https://drive.google.com/file/d/1sZQh8cVb6db0vpdou2ocEAte4oA-N5sE/view)
-Contact information for my collaborator: David Gibbens. [Link to David Gibbens](https://github.com/dgibbs8089)
+Contact information for my collaborator: David Gibbens. 
+[Link to David Gibbens](https://github.com/dgibbs8089)
 
