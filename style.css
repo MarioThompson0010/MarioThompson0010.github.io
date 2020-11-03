@@ -10,7 +10,12 @@
     position: relative;
 }
 
-/* .grow-button:hover::after
-{
-    z-index: 555555 !important;
-} */
+.background-guy{
+    background-color: orangered;
+}
+
+.name-font-size {
+    font-size: xx-large;
+    font-weight: bold;
+}
+
