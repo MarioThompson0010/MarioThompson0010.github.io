@@ -2,13 +2,13 @@
     margin-bottom: 5px;
 }
 
-.grow-button:hover{
+/* .grow-button:hover{
     cursor: pointer;
     width: 500px;
     height: 400px;
     z-index: 555555 !important;
     position: relative;
-}
+} */
 
 .background-guy{
     background-color: orangered;
