@@ -60,7 +60,7 @@ Contact information for my collaborator: David Gibbens.
 
 ### Group Project 2--Forum Blog
 ![Forum Blog Screenshot](https://github.com/MarioThompson0010/MarioThompson0010.github.io/blob/master/Assets/Project2.PNG)
-[Link to Blog](https://github.com/MarioThompson0010/Project_2)
+[Link to Blog](https://github.com/MarioThompson0010/Project_2)            
 [Link to deployed application](https://fullstackbc-project-02.herokuapp.com/)
 
 List of technologies used: CSS, HTML, Javascript, JQuery, React, Express, Sql, Nodejs, Handlebars
