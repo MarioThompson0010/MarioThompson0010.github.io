@@ -58,3 +58,10 @@ Backup recording (since an API endpoint is down):
 Contact information for my collaborator: David Gibbens. 
 [Link to David Gibbens](https://github.com/dgibbs8089)
 
+### Group Project 2--Forum Blog
+[Link to Blog](https://github.com/MarioThompson0010/Project_2)
+[Link to deployed application](https://fullstackbc-project-02.herokuapp.com/)
+List of technologies used: CSS, HTML, Javascript, JQuery, React, Express, Sql, Nodejs, Handlebars
+Brief Description: This fully secure website allows the user to create a login, then post a remark about one of (or more) three important subjects: movies, books, or sports.  The user can then comment on somebody else's post.  
+
+
